@@ -34,6 +34,7 @@ header{
     background-size: cover;
     background-attachment: fixed;
     position: relative;
+    background-image: url("/images/portada.jpg");
 }
 
 nav{
